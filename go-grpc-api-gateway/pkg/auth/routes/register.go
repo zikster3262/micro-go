@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ziskter3262/go-grpc-api-gateway/pkg/auth/pb"
+	"github.com/zikster3262/go-grpc-api-gateway/pkg/auth/pb"
 )
 
 type RegisterRequestBody struct {
